@@ -1,2 +1,17 @@
 * The Cog In The Machine
 The Cog In The Machine is a script for the free and open 3D action adventure GlPortal.
+** Phase I
+This is a collection of ideas in preparation of phase II of the script creation.
+*** Characters
+**** Ada
+**** Alan
+**** Lab Assistant
+**** Computer
+**** Prof. Huxley
+*** Locations
+**** Faculty
+The player will be able to explore different labs like computer science, engineering and math.
+There are huge complexes for generating energy for experiments and a vast network of maintneance and
+waste disposal tunnels.
+* Phase II
+* Phase III 
