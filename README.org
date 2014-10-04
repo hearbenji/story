@@ -13,5 +13,17 @@ This is a collection of ideas in preparation of phase II of the script creation.
 The player will be able to explore different labs like computer science, engineering and math.
 There are huge complexes for generating energy for experiments and a vast network of maintneance and
 waste disposal tunnels.
-* Phase II
-* Phase III 
+*** Events
+**** General
+Ada will improve her skills while she strugles with a lot of new tasks.
+She will uncover a secret about her past and she will make new friends on
+the way.
+**** Detailed
+***** Training
+Ada gets to know her new tasks. It is not her first day so there are some things
+she already is familiar with.
+***** Work
+***** Escalation
+Nobody anticipated this. Everything goes wrong and Ada is the only around to fix it.
+** Phase II
+** Phase III 
