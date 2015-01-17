@@ -29,7 +29,7 @@ to get practice with levels and create the 0.1 release.
 This is a collection of ideas in preparation of phase II of the script creation.
 *** Characters
 **** Ada
-Ada is the silten protagonist of the story. 
+Ada is the silent protagonist of the story. 
 **** Alan
 **** Lab Assistant
 **** Computer
