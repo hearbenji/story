@@ -1,7 +1,7 @@
 * The Cog In The Machine
 The Cog In The Machine is a script for the free and open 3D action adventure GlPortal.
 ** Technical limitations
-GlPortal is an engine in progress. That means that the story telling is limted to what the engine can do.
+GlPortal is an engine in progress. That means that the story telling is limited to what the engine can do.
 
 *** Current status
 The following things are possible with the current engine
