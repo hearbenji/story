@@ -1,0 +1,34 @@
+* West Wing by Jared
+
+Editor`s note: This script is a draft and not ready for production yet. Its contents are still under development and thus are not to be considered canon.
+
+[Start in an empty room.]
+Prof. Huxley: “Go ahead, dear, stretch your legs a bit. It's good to get the blood flowing.
+
+[Next room with a platform that can't be scaled.]
+Prof. Huxley: “Good, good, you haven't forgotten how to walk. Splendid. 
+
+[Next room with an acid pit.]
+Prof. Huxley: “I know that acid looks lovely to swim in, but please control your urge to do so. I'd rather not regret hiring you for this job.”
+
+Editors note: In the following part the Lab Assistant is acting out of character. She is a confident person and does not depend on the aproval of
+others. 
+
+[Next room with a more advanced puzzle.]
+Prof. Huxley: “Ah, I have hope yet for Mr. Flufferkins.”
+Lab Assistant: “I can't believe you named the cat that.”
+Prof. Huxley: “I didn't see you come up with any original name ideas! Ahem! You'll have to forgive my assistant. She can be a little—”
+Lab Assistant: “Down-to-earth and logical?”
+Prof. Huxley: “Mmm, I was thinking more along the lines of annoying and/or irritable.”
+Lab Assistant: “I could stop tracking the cat, you know.”
+Prof. Huxley: “She's down-to-earth and logical. Happy now?”
+Lab Assistant: “A little.”
+
+[Ada enters the main chamber, which has doors to the different sections of the laboratory.]
+Prof. Huxley: “Lab Assistant, which section is my Mr. Flufferkins in?”
+Lab Assistant: “I have a name, you know, and it's—”
+Prof. Huxley: “I take it that blinking yellow light means he's in the right wing?”
+Lab Assistant: “Left wing.”
+Prof. Huxley: “I knew there was a reason I kept you around. Did you hear that, Ada? I'm unlocking the door for the west wing now.”
+Lab Assistant: “You refer to her by her name, but not me? I see where I am on your totem pole.”
+Prof. Huxley: “Where ever you're suspecting, assistant, it's too high.”
