@@ -1,4 +1,4 @@
-* glPortal/Cog in the machine design ideas
+* glPortal/Cog in the machine: design ideas
 
 ** Testing elements
 - Portals (eh!)
@@ -14,13 +14,6 @@
 - Buttons
   * Player activated (small button)
   * Box activated
-- Gravity fields
-  * Changes gravity for a given zone
-  * Can we let players go in them? Can cause issues or complexify code, e.g. regarding portal placement orientation
-- Projected gravity fields
-  * Same as above, but projected, can go through portals, and has velocity cap
-- Air ducts
-  * Blow air or suck air, can be used to attract/repel objects
 - Catapults
   * Target
 - Fizzlers
@@ -42,15 +35,48 @@
     * Delay/timer written in symbol (e.g. 2s)
 
 ** Test series
+Some of them are named after scientists/artists
+
+*** Newton series
+- Differently weighed boxes
+  * Buttons accepting a certain threshold of mass
+  * Lever mechanism, to lift things
+  * Fun Fact™: Portal 2's cube entity name is =portal_weighted_cube=, which /isn't/ actually weighted
+- Gravity fields
+  * Changes gravity for a given zone
+  * Low/zero gravity
+    * Zero-gravity shall not be accessed by the player since it can't really swim in air...
+- Projected gravity fields
+  * Same as above
+  * Projected
+  * Gravity goes in the projection direction
+    * Can be reversed/stop or even faster/slower
+  * Can go through portals
+  * Has velocity cap
+- Zero-G boxes
+  * May be activated/deactivated by areas and/or special lasers (including slowed down ones)
+
+*** (Nikola) Tesla series
+- Magnetic boxes
+  * Positively charged: red aspect, white "+" on it
+  * Negatively charged: blue/cyan aspect, white "-" on it
+  * Can be more or less polarized, indicated by color intensity or a "gauge" on it
+  * Of course, they repel themselves
+- Magnetic surfaces?
+- Magnetic buttons
+
 *** Elemental series
 - Water/other liquid  - !! Requires specific test chamber design to avoid too much sandboxing if the flow simulation is costly !!
   * Could be poured by portals from a container/dispenser to fill some areas requiring fill-up as part of the test
   * Use drains to limit liquid quantity
   * Physical simulation shouldn't be an actual particle simulation but rather a volume box simulation
     using a simple pathfinding algorithm to determine where to go
+  * Maybe use Bullet-FLUIDS? https://github.com/rtrius/Bullet-FLUIDS
 - Fire & hot Air
   * Can make wooden objects catch fire to clean a path
   * Its hot air effect (non-physically simulated, but still visually displayed using particles) could lift things (c.f. hot air balloons)
+- Air ducts
+  * Blow air or suck air, can be used to attract/repel objects
 - Earth? Give ideas.
 - Heat/cold beams (maybe?)
   * Could lead to funny mechanics like triggering fire, making water boil/freeze it
@@ -114,3 +140,20 @@
     * Actually, try to avoid complicated levels, keep the fun
 
 Chronos series? (wibbly-wobbly timey-wimey stuff)
+
+** Other random ideas
+- "Matrix" mode: see some things through walls
+- Self-destructing box
+  * Countdown displayed on it
+- Spheres
+  * Essentially the same as boxes, but it's a sphere
+  * Sphere button
+- Tetrahedrons
+  * Serves the same purpose as boxes/spheres 
+  * Constructed in-place by folding and soldering its net
+  * Tetrahedron buttons
+- Jello boxes / spheres / tetrahedrons
+  * Constructed in-place by pouring liquid jello in a transparent (e.g. plastic or glass) mold and then quicky being cooled
+  * Bouncy!
+  * Available in different colors, for the cheap price of $0.00 !
+  * Dissolved when it goes in water
