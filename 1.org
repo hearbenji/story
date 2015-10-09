@@ -6,7 +6,7 @@
 - Boxes
   * Constructed in-place (materialization or assembly, the latter is harder to animate but way cooler)
 - Lasers
-  * Red laser is for the weak, has short wavelength. Give us blue/purple lasers!
+  * Red laser is for the weak, has long wavelength (= low energy). Give us blue/purple lasers!
   * Can have speed of light OR be slown down by emitter (see upcoming 3D model)
   * Purple lasers are lethal and can be used to (willingly) damage things, whereas blue ones are not
     (both can be, of course, used to activate laser receivers)
