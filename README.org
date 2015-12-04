@@ -1,30 +1,5 @@
 * The Cog In The Machine
 The Cog In The Machine is a script for the free and open 3D action adventure GlPortal.
-** Technical limitations
-GlPortal is an engine in progress. That means that the story telling is limited to what the engine can do.
-
-*** Current status
-The following things are possible with the current engine
-- Walk around and Jump
-- Portal placement on special walls on the map
-- Teleportation between portals
-- Triggers for health loss, death etc. on the map
-- A door labeled exit that leads to the next level
-*** Near future
-Some features that are usefull for story telling, but are not there yet.
-- Triggers that open doors and remove walls
-- Objects that can be repaired as part of a mission
-- buttons
-- Triggers that play sounds/voice
-- Parent levels that connect many smaller levels with each other.
-If you need any of these features for your script to work please contact the development department.
-** How to write a script
-Submit early and submit often. Be aware of the technical limitations and give as much feedback as possible
-to the developers so we can rush the features your story needs. Keep it simple, don't be afraid to have
-a lot of gameplay in the first levels/scripts you design. We want to create the more advanced levels and 
-stories at a later point in development when the engine is richer in features and our skills in creating
-maps have improved. Don't bother too much with the big picture in the begining. We don't need it yet
-to get practice with levels and create the 0.1 release.
 ** Phase I
 This is a collection of ideas in preparation of phase II of the script creation.
 *** Characters
